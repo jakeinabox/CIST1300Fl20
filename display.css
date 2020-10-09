@@ -1,0 +1,53 @@
+li {
+    display: inline-block;
+}
+
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: darkkhaki;
+    border-width: 25px;
+    border-color: yellow;
+    border-style: solid;
+    background-blend-mode: screen;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    word-spacing: 30px;
+}
+
+img {
+    border-width: 20px;
+    border-color: red;
+    border-style: solid;
+    width: 200px;
+    height: 400px;
+    background-size: contain;
+}
+
+p.test1 {
+    text-align: right;
+}
+
+table {
+    border-style: groove;
+    border-spacing: inherit;
+}
+
+textarea {
+    font-family: cursive;
+}
+
+div {
+    text-align: center;
+    word-spacing: normal;
+    font-weight: bolder;
+    font-family: fantasy;
+}
+div.test1{
+    text-align: right;
+}
